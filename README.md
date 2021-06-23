@@ -7,17 +7,17 @@ upload datasets on drive and run the notebook on google colab.
 
 ## Average Perplexities
 
-Kneser Training: 3.5826378214803802
-Kneser Testing: 532.1675432788799
-Kneser Validation: 454.13629989185324
+Kneser Training: 3.5826378214803802 <br>
+Kneser Testing: 532.1675432788799 <br>
+Kneser Validation: 454.13629989185324 <br>
 
-Witten Training: 2.710249953959174
-Witten Testing: 21873464.425774388
-Witten Validation: 20906925.301411595
+Witten Training: 2.710249953959174 <br>
+Witten Testing: 21873464.425774388 <br>
+Witten Validation: 20906925.301411595 <br>
 
-LSTM Training = 14879.11386069286
-LSTM Testing  = 39688.13258867951
-LSTM Validation = 21781.48651231239
+LSTM Training = 14879.11386069286 <br>
+LSTM Testing  = 39688.13258867951 <br>
+LSTM Validation = 21781.48651231239 <br>
 
 ## Analysis
 
